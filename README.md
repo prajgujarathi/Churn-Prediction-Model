@@ -8,7 +8,9 @@ For this project I am defining churning by three factors if there is not activit
 
 DATASETS AND INPUTS:
 • Spend ( https://www.dropbox.com/s/qia89hd3i2j2nl6/spend.csv.gz?dl=0 )
+
 • Counts ( https://www.dropbox.com/s/jbnzgk6shgnz5hb/counts.csv.gz?dl=0 )
+
 The variables between the two files are:
 • date 
 • account id 
